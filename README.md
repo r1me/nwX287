@@ -1,5 +1,6 @@
 # Necroware's nwX287 RTC module
 
+![rimevariant](./images/nwx287vert2032.png)
 ![photo](./images/top.jpg)
 
 This is a drop-in replacement for RTC modules with solid body. Such modules were
